@@ -4,13 +4,7 @@
 
 <p align="left">My name is Gustavo and I'm a begginer programer, from Brazil</p>
 
-###
 
-<h2 align="left">I am a fun man</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: i am fat</p>
 
 ###
 
